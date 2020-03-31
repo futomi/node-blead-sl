@@ -1,8 +1,8 @@
 {
   "name": "node-blead-sl",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "The node-blead-sl is a controller of BLE beacon \"BLEAD-SL\" equipped with a buzzer. Note that \"BLEAD-SL\" is available only in Japan.",
-  "main": "./lib/berad-sl.js",
+  "main": "./lib/blead-sl.js",
   "files": [
     "lib"
   ],
